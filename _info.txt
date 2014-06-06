@@ -1,6 +1,7 @@
 #start data logger
 cd dataLogger
 ./datalogger.py
+cd ..
 
 #start publication
 ./publish.sh

@@ -9,7 +9,7 @@ do
   cd ..
   git commit -a -m "$date"
   git push
-  sleep 2m
-#  sleep 10m
+#  sleep 2m
+  sleep 10m
 done
 
